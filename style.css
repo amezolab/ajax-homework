@@ -1,0 +1,22 @@
+body {
+  font: 24px arial;
+  background: blue;
+}
+
+#animals {
+  width: 80%;
+}
+
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+
+
+
+button.active {
+  background: white;
+}
